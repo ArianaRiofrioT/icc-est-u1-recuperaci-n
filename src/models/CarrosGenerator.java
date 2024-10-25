@@ -3,7 +3,7 @@ package models;
 /**
  * CarrosGenerator
  */
-public class CarrosGenerator {
+public class CarrosGenerator { 
 
     // Generar 50 carros con datos aleatorios
     public Carro[] generarCarros() {
